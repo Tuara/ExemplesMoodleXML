@@ -1,10 +1,6 @@
 <question type="matching">
  <subquestion>
-<<<<<<< HEAD
      <text>Hey, salut toi :) !</text>
-=======
-     <text>Hey, salut toi :) !</text>
->>>>>>> cb082be26793bd1516cdf49fb7a94d50d5825d46
      <answer>
          <text>This is the 2nd item in the 1st pair.</text>
      </answer>
